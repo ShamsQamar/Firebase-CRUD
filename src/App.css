@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+#c{
+  background-color: rgb(194, 194, 194);
+}
+body{
+  background-color: rgb(231, 240, 243);
+}
+#elem{
+  background-color: rgb(194, 194, 194);
+}
+.nav{
+  background-color: lightblue;
+}
+#log{
+  color: rgb(19, 163, 19);
+}
+#sign{
+  color: rgb(42, 42, 221);
+}
+nav-link.hover{
+  background-color: #fff;
+  color: black;
+}
